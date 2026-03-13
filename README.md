@@ -1,4 +1,4 @@
-Description
+DESCRIPTION
 
 The IoT Environment Monitoring System is an embedded system designed to monitor environmental conditions such as temperature and gas concentration using sensors interfaced with the LPC2129 Microcontroller.
 
@@ -6,7 +6,7 @@ Analog sensor signals from the LM35 Temperature Sensor and MQ‑2 Gas Sensor are
 
 This project demonstrates sensor interfacing, SPI-based ADC communication, UART communication with Wi-Fi modules, and IoT data transmission in an embedded system.
 
-Features
+FEATURES:
 
 Real-time temperature monitoring
 
@@ -22,7 +22,7 @@ Wireless IoT-based environmental monitoring
 
 Continuous data transmission to cloud platform
 
-Hardware Components
+HARDWARE COMPONENTS:
 
 LPC2129 Microcontroller
 
@@ -38,7 +38,7 @@ Power Supply
 
 Connecting wires
 
-Working Principle
+WORKING PRINCIPLES
 
 The LM35 sensor measures environmental temperature.
 
