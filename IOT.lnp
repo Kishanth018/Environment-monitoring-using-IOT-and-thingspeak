@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\spi_main.o"
+--strict --scatter ".\IOT.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\IOT.map" -o .\IOT.axf
